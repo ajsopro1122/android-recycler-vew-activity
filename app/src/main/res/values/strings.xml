@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation Drawer Sample</string>
+    <string name="courses">Courses</string>
+    <string name="other">Other</string>
+    <string name="alvin_jose">Alvin Jose</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cheenee">Cheenee</string>
+    <string name="cute_daw">Cute Daw</string>
+    <string name="alvin_jose_orcullo">Alvin Jose Orcullo</string>
+    <string name="student">Student</string>
+    <string name="settings">settings</string>
+    <string name="Settings" />
+    <string name="home">Home</string>
+</resources>
